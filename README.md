@@ -8,8 +8,8 @@ requierment:
 1- python3
 
 to use it just use python3 so
-'''
+```bash
 python3 MacOsVscodeInstall.py
-'''
+```
 
 thank's ;)
